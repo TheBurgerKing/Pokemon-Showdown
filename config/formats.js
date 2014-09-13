@@ -475,6 +475,14 @@ exports.Formats = [
 		]
 	},
 	{
+		name: "Diversemons",
+		section: "Other Metagames",
+		
+		mod: 'diversemons',
+		ruleset: ['Pokemon', 'Standard', 'Baton Pass Clause', 'Swagger Clause', 'Team Preview'],
+		banlist: ['Uber', 'Soul Dew', 'Gengarite', 'Kangaskhanite', 'Lucarionite', 'Mawilite']
+	},
+	{
 		name: "Sky Battles",
 		section: "Other Metagames",
 
